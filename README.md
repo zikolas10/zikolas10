@@ -1,5 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZkM25pazBtaG1leHdjOW1pemppbmp0YTdrZW51c3NnZ2g1enRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>  
-          Bienvenidos {;}
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZkM25pazBtaG1leHdjOW1pemppbmp0YTdrZW51c3NnZ2g1enRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>  Bienvenidos {;}
 
 ![Banner Chris](Banner-RPG.png)
 
